@@ -22,7 +22,7 @@
   <img align="center" alt="Adilson-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
   <img align="center" alt="Adilson-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Adilson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Adilson-pic" height="150" style="border-radius:50px;" src="https://readyplayer.me/gallery/rWAHxf8np">
+  <img align="right" alt="Adilson-pic" height="150" style="border-radius:50px;" src="https://i.ibb.co/xG5Dtfx/Avatar-AMS-2022.png">
 </div>
   
   ##
